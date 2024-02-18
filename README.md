@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning GAme Development<br>🎯 Goals: <br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Game Development<br>🎯 Goals: starting a game studio.<br>🎲 I liked to sketch and read manga.</p>
 
 ###
 
