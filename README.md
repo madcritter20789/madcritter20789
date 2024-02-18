@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Chitransh NIshad and I'm a 3dr year CSE student, from SRMIST</p>
+<p align="left">My name is Chitransh NIshad and I'm a 3rd year CSE student, from SRMIST</p>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning GAme Development<br>🎯 Goals: <br>🎲 Fun fact: ...</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with C#,C++ and Python</h2>
 
 ###
 
