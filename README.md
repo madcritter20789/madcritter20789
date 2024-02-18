@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Chitransh NIshad and I'm a 3rd year CSE student, from SRMIST</p>
+<p align="left">My name is Chitransh Nishad and I'm a 3rd year CSE student, from SRMIST</p>
 
 ###
 
