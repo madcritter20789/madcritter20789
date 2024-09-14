@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Chitransh Nishad and I'm a 3rd year CSE student, from SRMIST</p>
+<p align="left">My name is Chitransh Nishad and I'm a final year CSE student, from SRMIST</p>
 
 ###
 
@@ -35,7 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-</div>
+</
+div>
 
 
 ###
